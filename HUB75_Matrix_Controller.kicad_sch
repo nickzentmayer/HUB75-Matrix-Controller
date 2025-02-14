@@ -9941,6 +9941,16 @@
 		)
 		(uuid "6bd59d34-e9b6-4385-b354-002d84433486")
 	)
+	(text "HUB75 Pinout:\nR1 - 01\nG1 - 02\nB1 - 03\nR2 - 04\nG2 - 05\nB2 - 06\nA - 07\nB - 08\nC - 09\nD - 10\nE - 11\nLAT - 12\nOE - 13\nCLK - 14\n"
+		(exclude_from_sim no)
+		(at 271.78 84.328 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "71f11d37-484e-469b-a081-f904734b8f74")
+	)
 	(text "Power"
 		(exclude_from_sim no)
 		(at 18.796 86.36 0)
